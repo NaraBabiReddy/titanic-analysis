@@ -1,0 +1,1 @@
+kaggle running competetion on titanic survival "https://www.kaggle.com/c/titanic". I analysed this data with personal interest to find answers to some of my questions (not really competetion oriented). Analysis and plot done using Python.
